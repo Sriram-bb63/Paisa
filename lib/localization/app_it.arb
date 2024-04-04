@@ -169,6 +169,8 @@
     "deleteDebtOrCredit": "Eliminare il debito o il credito eliminerà tutto ciò che gli è correlato",
     "backupAndRestoreJSONTitle": "Esporta i dati come file JSON",
     "backupAndRestoreJSONDesc": "Questo esporterà un semplice file JSON. Ricorda che in caso qualcosa dovesse cambiare in futuro questo file potrebbe diventare invalido.",
+    "backupAndRestoreCSVTitle": "Esporta i dati come file CSV",
+    "backupAndRestoreCSVDesc": "Questo esporterà un semplice file CSV. Ricorda che in caso qualcosa dovesse cambiare in futuro questo file potrebbe diventare invalido.",
     "emptyBudgetMessageTitle": "Non hai impostato budget per alcuna categoria",
     "emptyBudgetMessageSubTitle": "Imposta un budget per una categoria, ed essa apparirà qui.",
     "recurringEmptyMessageTitle": "Niente eventi ricorrenti?",

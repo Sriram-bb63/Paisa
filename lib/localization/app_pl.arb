@@ -170,6 +170,8 @@
   "deleteDebtOrCredit": "Usunięcie długu lub kredytu powoduje usunięcie wszystkich zapisów z nim związanych",
   "backupAndRestoreJSONTitle": "Eksportuj dane jako plik JSON",
   "backupAndRestoreJSONDesc": "Plik będzie zapisany w formacie JSON. Należy pamiętać, że jeśli w przyszłości nastąpią jakiekolwiek zmiany w aplikacji Paisa, tego plik będzie niemożliwy do przywrócenia",
+  "backupAndRestoreCSVTitle": "Eksportuj dane jako plik CSV",
+  "backupAndRestoreCSVDesc": "Plik będzie zapisany w formacie CSV. Należy pamiętać, że jeśli w przyszłości nastąpią jakiekolwiek zmiany w aplikacji Paisa, tego plik będzie niemożliwy do przywrócenia",
   "emptyBudgetMessageTitle": "Nie ustalono budżetów dla żadnej kategorii",
   "emptyBudgetMessageSubTitle": "Ustaw budżet dla dowolnej kategorii, a ta kategoria pojawi się tutaj",
   "recurringEmptyMessageTitle": "Brak cyklicznych transakcji",

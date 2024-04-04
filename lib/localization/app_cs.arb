@@ -173,6 +173,8 @@
     "deleteDebtOrCredit": "Odstraněním dluhu nebo kreditu také odstraníte všechny záznamy s ním spojené",
     "backupAndRestoreJSONTitle": "Exportovat data do souboru JSON",
     "backupAndRestoreJSONDesc": "Soubor bude exportován do prostého formátu JSON. Pokud se v budoucnu v aplikaci Paisa odehrají nějaké větší změny, bude import tohoto souboru neplatný",
+    "backupAndRestoreCSVTitle": "Exportovat data do souboru CSV",
+    "backupAndRestoreCSVDesc": "Soubor bude exportován do prostého formátu CSV. Pokud se v budoucnu v aplikaci Paisa odehrají nějaké větší změny, bude import tohoto souboru neplatný",
     "emptyBudgetMessageTitle": "U žádných kategorií nebyly nastaveny žádné rozpočty",
     "emptyBudgetMessageSubTitle": "Nastavte rozpočet pro jakoukoli kategorii a ta se poté zobrazí zde",
     "recurringEmptyMessageTitle": "Žádné opakující se události?",

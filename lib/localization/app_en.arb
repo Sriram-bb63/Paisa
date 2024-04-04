@@ -845,6 +845,16 @@
         "description": "Message shown on the import and export screen",
         "type": "text"
     },
+    "backupAndRestoreCSVTitle": "Export data as CSV file",
+    "@backupAndRestoreCSVTitle": {
+        "description": "Section title text shown on the export and import page",
+        "type": "text"
+    },
+    "backupAndRestoreCSVDesc": "The file will be a plain CSV file created and exported to save. Please note that if in case anything changes happen in the future in Paisa then this file will be invalid to import",
+    "@backupAndRestoreCSVDesc": {
+        "description": "Message shown on the import and export screen",
+        "type": "text"
+    },
     "emptyBudgetMessageTitle": "No budgets have been set for any categories",
     "@emptyBudgetMessageTitle": {
         "description": "Title text shown on the budget screen when no budgets are available",

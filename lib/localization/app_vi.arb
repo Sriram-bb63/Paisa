@@ -172,6 +172,8 @@
     "deleteDebtOrCredit": "Xóa khoản nợ hoặc cho vay sẽ xóa tất cả bản ghi liên quan đến nó",
     "backupAndRestoreJSONTitle": "Xuất dữ liệu thành tệp JSON",
     "backupAndRestoreJSONDesc": "Một tệp JSON đơn giản được tạo và xuất để lưu. Xin lưu ý rằng nếu trong trường hợp có bất kỳ thay đổi nào xảy ra trong tương lai ở Paisa thì tệp này sẽ không còn có thể nhập lại.",
+    "backupAndRestoreCSVTitle": "Xuất dữ liệu thành tệp CSV",
+    "backupAndRestoreCSVDesc": "Một tệp CSV đơn giản được tạo và xuất để lưu. Xin lưu ý rằng nếu trong trường hợp có bất kỳ thay đổi nào xảy ra trong tương lai ở Paisa thì tệp này sẽ không còn có thể nhập lại.",
     "emptyBudgetMessageTitle": "Chưa đặt ngân sách cho bất kỳ danh mục nào",
     "emptyBudgetMessageSubTitle": "Đặt ngân sách cho bất kỳ danh mục nào và danh mục đó sẽ hiển thị ở đây.",
     "recurringEmptyMessageTitle": "Không có sự kiện định kỳ?",

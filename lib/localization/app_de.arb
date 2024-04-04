@@ -170,6 +170,8 @@
     "deleteDebtOrCredit": "Durch das Löschen der Schulden oder der Gutschrift werden alle damit verbundenen Datensätze gelöscht ",
     "backupAndRestoreJSONTitle": "Deine Daten exportieren im JSON-Format",
     "backupAndRestoreJSONDesc": "Bei der Datei handelt es sich um eine einfache JSON-Datei, die zum Speichern erstellt und exportiert wird. Bitte beachte, dass diese Datei nicht mehr importiert werden kann, falls sich in Zukunft Änderungen in Paisa ergeben.",
+    "backupAndRestoreCSVTitle": "Deine Daten exportieren im CSV-Format",
+    "backupAndRestoreCSVDesc": "Bei der Datei handelt es sich um eine einfache CSV-Datei, die zum Speichern erstellt und exportiert wird. Bitte beachte, dass diese Datei nicht mehr importiert werden kann, falls sich in Zukunft Änderungen in Paisa ergeben.",
     "emptyBudgetMessageTitle": "Für keine der Kategorien wurden Budgets festgelegt",
     "emptyBudgetMessageSubTitle": "Lege ein Budget für eine beliebige Kategorie fest und diese Kategorie wird hier angezeigt.",
     "recurringEmptyMessageTitle": "Keine wiederkehrenden Ereignisse?",

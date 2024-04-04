@@ -170,6 +170,9 @@
     "deleteDebtOrCredit": "刪除借方或貸方資料將同步移除與其相關的所有記錄",
     "backupAndRestoreJSONTitle": "以 JSON 格式匯出資料",
     "backupAndRestoreJSONDesc": "檔案將以純 JSON 格式建立並匯出和儲存。請注意，若 Paisa 在未來發生變更，此檔案將無法匯入。",
+    "backupAndRestoreCSVTitle": "以 CSV 格式匯出資料",
+    "backupAndRestoreCSVDesc": "檔案將以純 CSV 格式建立並匯出和儲存。請注意，若 Paisa 在未來發生變更，此檔案將無法匯入。",
+
     "emptyBudgetMessageTitle": "尚無類別設定預算",
     "emptyBudgetMessageSubTitle": "為任何類別設定預算，該類別將在此處顯示",
     "recurringEmptyMessageTitle": "尚無週期性活動？",

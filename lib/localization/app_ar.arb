@@ -173,6 +173,8 @@
   "deleteDebtOrCredit": "حذف الدين أو الائتمان سيحذف جميع السجلات المرتبطة",
   "backupAndRestoreJSONTitle": "تصدير البيانات إلى ملف JSON",
   "backupAndRestoreJSONDesc": "سيكون الملف ملف JSON عادي يتم إنشاؤه وتصديره للحفظ. يرجى ملاحظة أنه إذا حدث شيء في المستقبل لـ Paisa، فستكون هذه الملفات غير صالحة للاستيراد",
+  "backupAndRestoreCSVTitle": "تصدير البيانات إلى ملف CSV",
+  "backupAndRestoreCSVDesc": "سيكون الملف ملف CSV عادي يتم إنشاؤه وتصديره للحفظ. يرجى ملاحظة أنه إذا حدث شيء في المستقبل لـ Paisa، فستكون هذه الملفات غير صالحة للاستيراد",
   "emptyBudgetMessageTitle": "لم يتم تحديد ميزانية لأي فئة",
   "emptyBudgetMessageSubTitle": "أنشئ ميزانية لفئة وستظهر هنا",
   "recurringEmptyMessageTitle": "لا توجد متكررات؟",

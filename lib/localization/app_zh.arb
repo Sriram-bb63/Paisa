@@ -167,6 +167,8 @@
     "deleteDebtOrCredit": "删除债务或信用将删除与之相关的所有记录",
     "backupAndRestoreJSONTitle": "将数据导出为 JSON 文件",
     "backupAndRestoreJSONDesc": "该文件将是创建并导出以保存的纯 JSON 文件。请注意，如果将来Paisa发生任何更改，则此文件将无法导入。",
+    "backupAndRestoreCSVTitle": "将数据导出为 CSV 文件",
+    "backupAndRestoreCSVDesc": "该文件将是创建并导出以保存的纯 CSV 文件。请注意，如果将来Paisa发生任何更改，则此文件将无法导入。",
     "emptyBudgetMessageTitle": "尚未为任何类别设置预算",
     "emptyBudgetMessageSubTitle": "为任何类别设置预算，该类别将显示在此处。",
     "recurringEmptyMessageTitle": "没有重复发生的事件？",

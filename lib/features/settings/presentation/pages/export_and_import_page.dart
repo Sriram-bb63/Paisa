@@ -97,10 +97,10 @@ class ExportAndImportPage extends StatelessWidget {
                 ],
               ),
               SettingsGroup(
-                title: 'Export data as CSV file',
+                title: context.loc.backupAndRestoreCSVTitle,
                 options: [
                   ListTile(
-                    title: Text(context.loc.backupAndRestoreJSONDesc),
+                    title: Text(context.loc.backupAndRestoreCSVDesc),
                   ),
                   Padding(
                     padding: const EdgeInsets.all(8.0),

@@ -170,6 +170,8 @@
     "deleteDebtOrCredit": "Supprimer la dette ou le crédit supprime tous les enregistrements associés",
     "backupAndRestoreJSONTitle": "Exporter les données dans un fichier JSON",
     "backupAndRestoreJSONDesc": "Le fichier sera un fichier JSON ordinaire créé et exporté pour être enregistré. Veuillez noter que s'il arrive quelque chose dans le futur à Paisa ces fichiers seront invalides à l'import",
+    "backupAndRestoreCSVTitle": "Exporter les données dans un fichier CSV",
+    "backupAndRestoreCSVDesc": "Le fichier sera un fichier CSV ordinaire créé et exporté pour être enregistré. Veuillez noter que s'il arrive quelque chose dans le futur à Paisa ces fichiers seront invalides à l'import",
     "emptyBudgetMessageTitle": "Aucun budget n'a été mis pour aucune catégorie",
     "emptyBudgetMessageSubTitle": "Créez un budget pour une catégorie et cette catégorie apparaîtra ici",
     "recurringEmptyMessageTitle": "Aucune souscription ?",

@@ -171,6 +171,8 @@
     "deleteDebtOrCredit": "A exclusão do débito ou crédito exclui todos os registros relacionados a ele",
     "backupAndRestoreJSONTitle": "Exportar dados como arquivo JSON",
     "backupAndRestoreJSONDesc": "O arquivo será um arquivo JSON simples criado e exportado para salvar. Por favor, note que se houver alguma alteração no Paisa no futuro, esse arquivo será inválido para importação.",
+    "backupAndRestoreCSVTitle": "Exportar dados como arquivo CSV",
+    "backupAndRestoreCSVDesc": "O arquivo será um arquivo CSV simples criado e exportado para salvar. Por favor, note que se houver alguma alteração no Paisa no futuro, esse arquivo será inválido para importação.",
     "emptyBudgetMessageTitle": "Não foram definidos orçamentos para nenhuma categoria",
     "emptyBudgetMessageSubTitle": "Defina um orçamento para qualquer categoria, e essa categoria será exibida aqui.",
     "recurringEmptyMessageTitle": "Sem eventos recorrentes?",
